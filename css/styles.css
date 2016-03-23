@@ -55,3 +55,18 @@ box-shadow: 0 5px 10px 0 rgba(0,0,0,.3)
 	left: 0;
 	top: 100%;
 }
+.popup:hover span {
+	display: inline-block;
+	background-color: #333333;
+	color: white;
+	padding: 5px;
+	position: absolute;
+	bottom: 100%;
+	left: 0;
+}
+.popup span {
+	display: none;
+}
+.popup {
+	position: relative;
+}
