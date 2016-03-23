@@ -50,3 +50,8 @@ box-shadow: 0 5px 10px 0 rgba(0,0,0,.3)
 	right: 10px;
 	top: 10px;
 }
+.tip img {
+	position: absolute;
+	left: 0;
+	top: 100%;
+}
